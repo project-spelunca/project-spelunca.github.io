@@ -5,7 +5,8 @@
 	--font-color: #313335;
 	--bg-color: #fff;
 	--heading-color: #6f00ff;
-    line-height: 2em;
+	font-family: 'Roboto', sans-serif;
+    	line-height: 2em;
 }
 
 body {
